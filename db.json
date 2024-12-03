@@ -1,4 +1,4 @@
-[
+{
     {
       "category": "Fruits",
       "price": "$1",
@@ -35,5 +35,5 @@
       "stocked": true,
       "name": "Peas"
     }
-  ]
+}
   
